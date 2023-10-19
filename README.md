@@ -30,3 +30,4 @@ This project is a network simulation using Cisco Packet Tracer to demonstrate a 
    - Rapid STP has been implemented to prevent switching loops and broadcast flooding.
 
 ## Network Topology
+![Screenshot 2023-10-19 142506](https://github.com/pnsudhanva/Enterprise-Network-Infrastructure/assets/14261453/a4d4eb30-97d1-4983-b7e4-fc9695392ae2)
